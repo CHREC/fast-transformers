@@ -1,6 +1,8 @@
 Fast Transformers
 =================
 
+Note: This fork was created with the purpose of creating a CPU-only version of this application. 
+
 Transformers are very successful models that achieve state of the art
 performance in many natural language tasks. However, it is very difficult to
 scale them to long sequences due to the quadratic scaling of self-attention.
